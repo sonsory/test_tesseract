@@ -9,8 +9,8 @@ pytesseract==0.3.7
 python-multipart==0.0.5
 six==1.15.0
 starlette==0.13.6
-unicorn==1.0.2
-uvicorn==0.13.3
+unicorn==2.0.1
+uvicorn==0.19.3
 opencv-python-headless
 uvloop
 httptools
